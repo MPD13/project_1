@@ -10,12 +10,6 @@ Emotion Detector AI uses YOLOv8 and an extensive dataset on Kaggle. The Emotion 
 The AI is trained and depends on the "model.py" file in the "final_project_emotion_detector" folder which teaches the AI how to detect emotions based on the dataset on the "dataset" folder of the "final_project_emotion_detector" folder. The "webcam.py" file in the "final_project_emotion_detector" folder is the file that will be used to make your webcam live record and the AI on the "model.py" file will detect your emotion.
 
 
-# How does Emotion Detector work? 
 
-Emotion Dector works by using an extensive dataset recieved from Kaggle that contains emotions and corrsponding images of people with those emotions. The model.py file was created to train the model and the testcam.py file is made to use your webcam to live record your video and give you live results.
-
-# Why Emotion Detector?
-
-Emotion Dector AI is a dedicated AI specifically made to improve your business, game, services, etc and do so in an innovative way. Emotion Detector uses a non
--traditional better way to save our environment.
-
+# How to setup/pre requirments before trying. 
+Install Numpy in the version between 1.20-1.24
