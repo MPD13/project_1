@@ -5,8 +5,9 @@ Emotion Detector AI is made for companies to understand its user/customers emoti
 
 # How does Emotion Detector work? 
 
-Emotion Dector works by using a dataset recieved from Kaggle that contains emotions and corrsponding images of people with emotions. This exstensive dataset is used to train our AI to be able to detect what face expression made by a human corsponds to what emotion. The mode.py file was created to run the model and train it and the testcam.py file to use your webcam to do the project.
+Emotion Dector works by using an extensive dataset recieved from Kaggle that contains emotions and corrsponding images of people with those emotions. The model.py file was created to train the model and the testcam.py file is made to use your webcam to live record your video and give you live results .
 
 # Why Emotion Detector?
 
-Emotion Dector AI is a dedicated AI specifically made to improve your business, game, services, etc and do so in an innovative way.
+Emotion Dector AI is a dedicated AI specifically made to improve your business, game, services, etc and do so in an innovative way. Emotion Detector uses a non
+-tradisional better way to save our environment.
