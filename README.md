@@ -10,9 +10,11 @@ Emotion Detector AI uses YOLOv8 and an extensive dataset on Kaggle. The Emotion 
 The AI is trained and depends on the "model.py" file in the "final_project_emotion_detector" folder which teaches the AI how to detect emotions based on the dataset on the "dataset" folder of the "final_project_emotion_detector" folder. The "webcam.py" file in the "final_project_emotion_detector" folder is the file that will be used to make your webcam live record and the AI on the "model.py" file will detect your emotion.
 
  
-![8](https://github.com/user-attachments/assets/5c3394a3-b150-4638-94e8-97f2cfec4691)
 
 
+https://github.com/user-attachments/assets/fe5ccd5d-330f-47a3-92ce-29c71dd3454a
+
+https://github.com/user-attachments/assets/5db04cfd-3d11-4645-ba48-7f564fca12f8
 
 
 # How to setup/pre requirments before trying. 
