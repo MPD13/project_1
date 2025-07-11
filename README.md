@@ -8,9 +8,10 @@ Emotion Detector AI detects human emotions based on face expressions made for co
 # How does Emotion Detector AI work?
 Emotion Detector AI uses YOLOv8 and an extensive dataset on Kaggle. The Emotion Detector AI was devloped on the NVIDIA Jetson Orin Nano to give you an accurate AI.
 The AI is trained and depends on the "model.py" file in the "final_project_emotion_detector" folder which teaches the AI how to detect emotions based on the dataset on the "dataset" folder of the "final_project_emotion_detector" folder. The "webcam.py" file in the "final_project_emotion_detector" folder is the file that will be used to make your webcam live record and the AI on the "model.py" file will detect your emotion.
+
  
 ![8](https://github.com/user-attachments/assets/5c3394a3-b150-4638-94e8-97f2cfec4691)
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/91d14ac8-d381-45eb-a620-b953d1b48b37" />
+
 
 
 
