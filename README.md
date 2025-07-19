@@ -17,18 +17,17 @@ and we need a new way to connect with our customers/users and truly get to know 
 and move on to innovative and extremely well tool to ensure you know in depth what your user/customer wants.
 
 # Dataset
-The dataset is found in the train and val folder/directory on the dataset directory/folder in the final_project_emotion_detector folder/directory which was found on the Kaggle notebook titled "Face Emotion recognition"
-by users "soumyadeepp", "humant sattabhayya", and "Rajat Arya 21".
+The dataset is found in the train and val folder/directory on the dataset directory/folder in the final_project_emotion_detector folder/directory (after you download from kaggle) the dataset is found on the Kaggle notebook titled "Face Emotion recognition" by users "soumyadeepp", "humant sattabhayya", and "Rajat Arya 21".
 The link to the Kaggle notebook is https://www.kaggle.com/code/soumyadeepp/face-emotion-recognition/notebook.
 
-# Installation guides
+# Installation/pre-installation guides
 Make sure before doing anything you have Numpy installed on a version between 1.20 - 1.24.
 Also a guide to instaling the dataset via Kaggle notebook is ensure you got to the link https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset which is not the same as the one above and when
 there click download then download dataset as zip. After its done downloading then you can extract it in your file explorer or where your files are being stored and rename the folder/directory to dataset.
 Then you have the dataset installed. 
 Also to ensure the main.py file as mentioned earlier works fine make sure you go to https://www.kaggle.com/datasets/deadskull7/fer2013 then scroll down on the data card tab to where it says fer2013.csv and download it
 and put it in the dataset folder/directory in the final_project_emotion_detector and as its own file in the final_project_emotion_detector folder/directory.
-
+Please not the dataset folder/directory is not pre-installed in the final_project_emotion_detector folder/directory and requires you to folow the above steps to get the dataset and what to have in it when continuing in this project.
 # Images of the AI in action
 <img width="1920" height="1080" alt="Screenshot 2025-07-19 023143" src="https://github.com/user-attachments/assets/542cde2c-bf7f-483d-a2dc-86f4f7c01984" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-19 023102" src="https://github.com/user-attachments/assets/3967afda-6318-4098-a579-fbf506a5f5c8" />
